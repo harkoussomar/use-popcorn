@@ -1,6 +1,6 @@
-# Movie Manager
+# usePopcorn
 
-Movie Manager is a React application designed to help users search for movies, view details about each movie, and manage their watched list. It provides a user-friendly interface for searching movies, displaying movie details, and keeping track of watched movies.
+usePopcorn is a React application designed to help users search for movies, view details about each movie, and manage their watched list. It provides a user-friendly interface for searching movies, displaying movie details, and keeping track of watched movies.
 
 ## Features
 
